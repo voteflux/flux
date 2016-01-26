@@ -19,7 +19,7 @@ Further objectives:
 
 * To provide every Australian voter with real democratic potential
 * To use elected parliamentarians as a gateway for members to directly influence parliament within Australian law, using an internal voting system
-* To provide the framework and means for minor parties to participate in a productive coalition
+* To provide the framework and means for minor parties to participate productivley without winning a seat
 * To facilitate a culture of criticism through empowering specialists and passionate voters
 * To stimulate the creation of new policy options
 
@@ -151,3 +151,13 @@ Endorsed candidates are chosen by the Leader or by a quorum, though any candidat
 
 No state or territory branches are currently allowed. 
 This may be changed at a later date after registration through an ammendment to the constitution.
+
+## Internal Voting System
+
+Flux will use an internal voting system to
+
+* Facilitate members participating in the parliamentry process
+* Facilitate minor parties productive participation without winning a seat
+
+The parameters and design choices of the system are left to the Leader, and not within the scope of this document.
+There is no requirement that the voting system for members is the same as the voting system for minor parties.

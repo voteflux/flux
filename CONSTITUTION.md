@@ -101,6 +101,10 @@ If circumstances require the position of Leader to be filled but the Deputy Lead
 
 The Leader may resign and appoint a new Leader during the initial 5 year period.
 
+#### Deputy Leader
+
+The Deputy Leader is chosen by the Leader for an ongoing appointment. The Leader may revoke the position of the Deputy Leader at their discretion.
+
 ### Administration
 
 #### Decision Making
@@ -144,7 +148,7 @@ The Leader and Deputy Leader are entitled to handle assets.
 The Treasurer is responsible for managing the party's finances.
 A quorum can authorize spending of funds.
 Funds should be used only for the purposes of furthering the objectives of the party, and there is no other restriction on what funds may be spent on (except anything prohibited under Australian Law).
-The party agent is responsible for collating and submitting required documents to the AEC.
+The party agent is responsible for collating and submitting required documents to the AEC, and for keeping relevant party records for the times required by law.
 
 ## Amendments to this Constitution
 

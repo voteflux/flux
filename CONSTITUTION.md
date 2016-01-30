@@ -114,8 +114,8 @@ In their absence the Leadership may make decisions when at least 66% in agreemen
 
 For the purposes of decision making a quorum is achieved when:
 
-* The Leader is present
-* The Deputy Leader and one other member of the Leadership is present
+* The Leader is present, or
+* The Deputy Leader and one other member of the Leadership is present, or
 * Three members of the Leadership are present
 
 The Leader may imbue any member with special authority for specific purposes, in which case decisions made by the delegate are treated as though they were made by the Leader.
@@ -154,6 +154,8 @@ The party agent is responsible for collating and submitting required documents t
 
 Amendments to this constitution can be made with the support of at least 66% of a quorum, or at the discretion of the party Leader.
 
+Members may subscribe to notifications of proposed and sucessful amendments via the 'watch' feature within the GitHub repository.
+
 ## Endorsed Candidates
 
 Endorsed candidates are chosen by the Leader or by a quorum, though any candidates chosen by a quorum are able to be vetoed by the Leader.
@@ -168,7 +170,7 @@ This may be changed at a later date after registration through an amendment to t
 Flux will use an internal voting system to
 
 * Facilitate members participating in the parliamentary process
-* Facilitate minor parties productive participation without winning a seat
+* Facilitate minor parties' productive participation without winning a seat
 
 The parameters and design choices of the system are left to the Leader, and not within the scope of this document.
 There is no requirement that the voting system for members is the same as the voting system for minor parties.

@@ -1,14 +1,14 @@
 # Flux Constitution
 
-* Author: Max Kaye
-* Version 0.0.1
-* 26th January 2016
-
 ## Introduction
 
 This is the constitution for the political party known as "VOTEFLUX.ORG | Upgrade Democracy!", sometimes referred to as "Flux" or "the party" in this document.
 
 Flux is hereby established as an organization.
+
+The canonical version of the constitution is stored in the repository at https://github.com/voteflux/flux/
+
+Clauses should be referred to by line number and most recent commit hash.
 
 ## Objective
 
@@ -35,11 +35,11 @@ Flux's membership criteria are:
 All Australian voters are eligible for membership. 
 There is no cost for membership.
 Each member is required to provide their name and address such that it matches the electoral roll.
-Other required details include methods of contact, either phone or email, or both.
-Their membership application is to be submitted through Flux's website, at voteflux.org.
-Members may resign by contacting the secretary directly, or through a resignation feature on the party's website (once it exists).
+Other required details include methods of contact, an email address is required, a phone number is optional.
+Their membership application is to be submitted through Flux's website, at https://voteflux.org.
+Members may resign or revoke their membership through the resignation feature on the member's membership details page.
 
-To retain membership, members will need to (once a year) confirm their details are up to date through an email notification.
+To retain membership, after at least one Flux parliamentarian has been elected, members will need to (once a year) confirm their details are up to date through an email notification.
 Each time this happens their membership is valid for 1 year and they are granted voting rights within Flux's internal voting system.
 
 There are no obligations outside of maintaining membership.
@@ -124,7 +124,8 @@ The Leader may imbue any member with special authority for specific purposes, in
 
 The party is required to hold Annual General Meetings (AGMs) once per calendar year at a time of the Leadership's choosing.
 
-An AGM is to be chaired by the secretary and follow an agenda. The agenda is open for any member to add an item.
+An AGM is to be chaired by the secretary and follow an agenda. 
+The agenda is open for any member to add an item.
 Members will be notified by email at least 1 week before the AGM.
 The Leadership is required to be present where possible, and the meeting will be livestreamed to members.
 Members may request to be invited to the AGM.
@@ -153,6 +154,7 @@ The party agent is responsible for collating and submitting required documents t
 ## Amendments to this Constitution
 
 Amendments to this constitution can be made with the support of at least 66% of a quorum, or at the discretion of the party Leader.
+They are to be submitted via pull request to the relevant Github repository.
 
 ## Endorsed Candidates
 
@@ -160,8 +162,8 @@ Endorsed candidates are chosen by the Leader or by a quorum, though any candidat
 
 ## State and Territory Branches
 
-No state or territory branches are currently allowed. 
-This may be changed at a later date after registration through an amendment to the constitution.
+State registered branches may be created with the oversight of the Leadership.
+Members may opt-out of helping to form the state branch if they wish.
 
 ## Internal Voting System
 

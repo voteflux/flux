@@ -8,7 +8,7 @@ Flux is hereby established as an organization.
 
 The canonical version of the constitution is stored in the repository at https://github.com/voteflux/flux/
 
-Clauses should be referred to by line number and most recent commit hash.
+Clauses should be referred to by line number and most recent commit hash.m
 
 ## Objective
 
@@ -19,7 +19,7 @@ Further objectives:
 
 * To provide every Australian voter with real democratic potential
 * To use elected parliamentarians as a gateway for members to directly influence parliament within Australian law, using an internal voting system
-* To provide the framework and means for minor parties to participate productively without winning a seat
+* To provide the framework and means for minor parties and independents to participate productively without winning a seat
 * To facilitate a culture of criticism through empowering specialists and passionate voters
 * To stimulate the creation of new policy options
 
@@ -170,7 +170,7 @@ Members may opt-out of helping to form the state branch if they wish.
 Flux will use an internal voting system to
 
 * Facilitate members participating in the parliamentary process
-* Facilitate minor parties productive participation without winning a seat
+* Facilitate minor parties and independents' productive participation without winning a seat
 
 The parameters and design choices of the system are left to the Leader, and not within the scope of this document.
 There is no requirement that the voting system for members is the same as the voting system for minor parties.

@@ -162,8 +162,8 @@ Endorsed candidates are chosen by the Leader or by a quorum, though any candidat
 
 ## State and Territory Branches
 
-State registered branches may be created with the oversight of the Leadership.
-Members may opt-out of helping to form the state branch if they wish.
+State registered parties and branches may be created with the oversight of the Leadership.
+Members may opt-out of helping to form the state branch or party if they wish.
 
 ## Internal Voting System
 

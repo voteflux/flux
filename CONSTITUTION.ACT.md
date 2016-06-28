@@ -4,11 +4,11 @@
 
 This is the constitution for the ACT political party named "The Flux Party — ACT", sometimes referred to as "Flux ACT" or "the party" in this document.
 It is a branch of the federal party "VOTEFLUX.ORG | Upgrade Democracy!" a.k.a. "Flux".
-When the term "Flux" is used it is meant to refer to the federal Flux party, not the state branch.
+When the term "Flux" alone is used it is meant to refer to the federal Flux party, not the state branch.
 
 Flux ACT is hereby established as an organization.
 
-The canonical version of the constitution is stored in the repository at https://github.com/voteflux/flux/
+The canonical version of the constitution is stored in the repository at https://github.com/voteflux/flux/ under the file name `CONSTITUTION.ACT.md`.
 
 Clauses should be referred to by line number and most recent commit hash.
 
@@ -16,7 +16,7 @@ Flux ACT intends to defer many of the responsibilities for running the party to 
 
 This document is ratified when the federal Flux constitution is updated to reflect this fact and must include an appropriate commit hash of this document.
 This will be recorded under the section titled "State and Territory Branches".
-At the time of writing this like will take an observer to said ratification: https://github.com/voteflux/flux/blob/master/CONSTITUTION.md#state-and-territory-branches
+At the time of writing this like will take an observer to said ratification: https://github.com/voteflux/flux/blob/act_Con/CONSTITUTION.md#act-branch
 
 ## Objective
 

@@ -8,7 +8,7 @@ Flux is hereby established as an organization.
 
 The canonical version of the constitution is stored in the repository at https://github.com/voteflux/flux/
 
-Clauses should be referred to by line number and most recent commit hash.m
+Clauses should be referred to by line number and most recent commit hash.
 
 ## Objective
 

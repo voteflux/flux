@@ -16,7 +16,7 @@ Flux ACT intends to defer many of the responsibilities for running the party to 
 
 This document is ratified when the federal Flux constitution is updated to reflect this fact and must include an appropriate commit hash of this document.
 This will be recorded under the section titled "State and Territory Branches".
-At the time of writing this like will take an observer to said ratification: https://github.com/voteflux/flux/blob/act_Con/CONSTITUTION.md#act-branch
+At the time of writing this like will take an observer to said ratification: https://github.com/voteflux/flux/blob/master/CONSTITUTION.md#act-branch
 
 ## Objective
 

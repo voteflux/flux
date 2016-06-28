@@ -165,6 +165,8 @@ Endorsed candidates are chosen by the Leader or by a quorum, though any candidat
 State registered parties and branches may be created with the oversight of the Leadership.
 Members may opt-out of helping to form the state branch or party if they wish.
 
+State and Territory branches may use the name "Flux" and associated branding elements when they have been created as a subsection here, as is the case with `ACT Branch` below.
+
 ### ACT Branch
 
 The ACT branch of the Flux party is to be established with the constitution contained in the `CONSTITUTION.ACT.md` document in the root of this repository.

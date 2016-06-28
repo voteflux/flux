@@ -170,7 +170,7 @@ Members may opt-out of helping to form the state branch or party if they wish.
 The ACT branch of the Flux party is to be established with the constitution contained in the `CONSTITUTION.ACT.md` document in the root of this repository.
 This constitution can be found at: https://github.com/voteflux/flux/blob/master/CONSTITUTION.ACT.md
 
-`CONSTITUTION.ACT.md` is accepted and ratified as the opening constitution of Flux ACT as defined in commit `340be9a148f48072e8a2924f39d7907efb41fa8b` which is verified (and provided) at the following URL: https://github.com/voteflux/flux/blob/340be9a148f48072e8a2924f39d7907efb41fa8b/CONSTITUTION.ACT.md (note the commit hash - the long string of randomish letters and numbers - matches the commit hash in the URL, indicating the document is correct and not tampered with).
+`CONSTITUTION.ACT.md` is accepted and ratified as the opening constitution of Flux ACT as defined in commit `f808d871d5dd8ea650e340bbbbc3d8666df23a06` which is verified (and provided) at the following URL: https://github.com/voteflux/flux/blob/f808d871d5dd8ea650e340bbbbc3d8666df23a06/CONSTITUTION.ACT.md (note the commit hash - the long string of randomish letters and numbers - matches the commit hash in the URL, indicating the document is correct and not tampered with).
 
 ## Internal Voting System
 

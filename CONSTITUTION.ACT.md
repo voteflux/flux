@@ -2,11 +2,12 @@
 
 ## Introduction
 
-This is the constitution for the ACT political party named "The Flux Party — ACT", sometimes referred to as "Flux ACT" or "the party" in this document.
-It is a branch of the federal party "VOTEFLUX.ORG | Upgrade Democracy!" a.k.a. "Flux".
+This is the constitution for the ACT political party named "The Flux Party — ACT", sometimes referred to as "Flux ACT" or "the party" in this document only.
+The registered abbreviation for the party at the time of registration is "The Flux Party | Flux The System".
+It is a branch of the federal party "VOTEFLUX.ORG | Upgrade Democracy!" with the abbreviation "Flux".
 When the term "Flux" alone is used it is meant to refer to the federal Flux party, not the state branch.
 
-Flux ACT is hereby established as an organization.
+The Flux Party — ACT is hereby established as an organization.
 
 The canonical version of the constitution is stored in the repository at https://github.com/voteflux/flux/ under the file name `CONSTITUTION.ACT.md`.
 

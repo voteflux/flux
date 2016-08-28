@@ -114,6 +114,8 @@ The Leadership may determine the method of nomination, subject to the following 
 * The only information which a person must provide in their nomination is their full name and a statement that they are a member of Flux, although they must be given the opportunity to provide a contact email address, a contact phone number, a candidate statement of no more than 2500 words and a photograph of themselves.
 * Within 48 hours of receiving a nomination, if the nomination is accepted, the Leadership must publish all of the above information which the candidate has chosen to provide without modification on the Flux website, and if the nomination is rejected, the Leadership must provide the nominee with the reason for the rejection and allow the nominee to re-apply.
 
+If no valid nominations are received, the current Leader shall retain their position. If only one valid nomination is received, that person shall be declared the Leader without the need for an election. In all other cases, the below procedure should be followed.
+
 On January 1, the Leadership must send all members who are eligible to vote in the election an email:
 * Containing links to pages with all of the information that each candidate provided with their nomination; and
 * Giving members any information which they require to access the voting system; and
@@ -126,7 +128,7 @@ The Leadership may determine the method of voting, subject to the following cons
 * The voting system must be made available at all times from January 1 until January 31.
 * All members who were members on the preceding July 1 shall be eligible to vote, and no other person shall be eligible to vote
 
-As soon as possible, and in any case no later than 72 hours after the conclusion of the election, the results of the election shall be published and the winner will take the position of leader.
+As soon as possible, and in any case no later than 72 hours after the conclusion of the election, the results of the election shall be published and the winner will take the position of Leader. In the event of a tie, the winner shall be determined randomly.
 
 #### Deputy Leader
 
@@ -206,7 +208,7 @@ In a referendum:
 * All members who have been members for at least three months shall be eligible to vote in the referendum.
 * The question to be put to voters shall be "Do you approve of the proposed change to the Constitution?", with a link provided to the diff of the proposed change, and the only possible answers shall be "yes" or "no".
 * The Leader must send an email to all Flux members eligible to vote in the referendum informing them of the referendum and giving them the information required for them to access and use the voting system, and informing them that the voting system will be open for a period of 7 days
-* If multiple referendums are held at the same time, and more than one of those referendums passes, the pull requests shall be applied in order of the size of the majority (e.g. 90% first, 72% second, 61% third, etc.) and if a pull request cannot be applied due to a conflict with a proposal which passed with a higher majority, it shall not be applied.
+* If multiple referendums are held at the same time, and more than one of those referendums passes, the pull requests shall be applied in order of the size of the majority (e.g. 90% first, 72% second, 61% third, etc.) and if a pull request cannot be applied due to a conflict with a proposal which passed with a higher majority, it shall not be applied. If two referendums have the same size majority, then the order of application shall be determined randomly.
 * For a referendum to pass, at least 60% of the voting members must approve it.
 
 ## Endorsed Candidates

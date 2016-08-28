@@ -104,7 +104,7 @@ The Leader may resign and appoint a new Leader before the expiry of their term.
 
 Every year, on December 1, the Leadership must send an email to all members informing them that:
 * There will be an election for the position of Leader starting 15 January; and that
-* Nominations are being sought; andk
+* Nominations are being sought; and
 * Explaining the method through which members may nominate
 
 The Leadership may determine the method of nomination, subject to the following constraints:

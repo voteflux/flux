@@ -47,7 +47,7 @@ There are no obligations outside of maintaining membership.
 Parliamentarians who are members of Flux are not permitted to be members of other political parties.
 In a case where a parliamentarian does find themselves a member of another party, they must immediately resign from that other party.
 
-Members may be expelled from the party only in the case it is agreed upon unanimously by the Leadership.
+Members may be expelled from the party only in the case it is agreed upon unanimously by the Leadership, and a member who has nominated for an internal election may not be expelled until 60 days after the results of the election have been published.
 
 ## Structure of Flux and Office Bearers
 
@@ -93,13 +93,40 @@ They have no special roles, but form a close team to assist the Leader in managi
 Max Kaye is the initial leader. 
 In the case of the death of the Leader, the Deputy Leader becomes Leader and then appoints a new Deputy Leader of their choosing.
 
-The first term length of Leader is 5 years from the date of registration.
+The initial Leader shall retain that position until January 31, 2017 and is eligible for re-election.
 For this period they are essentially a benevolent dictator.
-It is intended for this to be changed at a later date via amendment, before the 5 years have expired.
 
 If circumstances require the position of Leader to be filled but the Deputy Leader cannot take the position, the Leadership may elect a new Leader by whichever means they choose. If an impasse is reached a new Leader is randomly chosen from the Leadership.
 
-The Leader may resign and appoint a new Leader during the initial 5 year period.
+The Leader may resign and appoint a new Leader before the expiry of their term.
+
+##### Election of the Leader
+
+Every year, on December 1, the Leadership must send an email to all members informing them that:
+* There will be an election for the position of Leader starting 15 January; and that
+* Nominations are being sought; andk
+* Explaining the method through which members may nominate
+
+The Leadership may determine the method of nomination, subject to the following constraints:
+* The only reason for which a person's nomination for the position of Leader may be rejected is if that person is not a member of Flux or if they have failed to provide their full name.
+* The deadline for nominations is December 15
+* The Leadership must accept nominations through email, post and the Flux community forum and may accept nominations through any other method, provided that all members are informed of this method
+* The only information which a person must provide in their nomination is their full name and a statement that they are a member of Flux, although they must be given the opportunity to provide a contact email address, a contact phone number, a candidate statement of no more than 2500 words and a photograph of themselves.
+* Within 48 hours of receiving a nomination, if the nomination is accepted, the Leadership must publish all of the above information which the candidate has chosen to provide without modification on the Flux website, and if the nomination is rejected, the Leadership must provide the nominee with the reason for the rejection and allow the nominee to re-apply.
+
+On January 1, the Leadership must send all members who are eligible to vote in the election an email:
+* Containing links to pages with all of the information that each candidate provided with their nomination; and
+* Giving members any information which they require to access the voting system; and
+* Informing them that the voting system will be open at all times from January 1 until January 31.
+
+The Leadership may determine the method of voting, subject to the following constraints:
+* The Flux voting system shall be used if it is available
+* If the Flux voting system is unavailable, optional preferential voting shall be used
+* The voting system must be available online
+* The voting system must be made available at all times from January 1 until January 31.
+* All members who were members on the preceding July 1 shall be eligible to vote, and no other person shall be eligible to vote
+
+As soon as possible, and in any case no later than 72 hours after the conclusion of the election, the results of the election shall be published and the winner will take the position of leader.
 
 #### Deputy Leader
 

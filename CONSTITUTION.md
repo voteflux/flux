@@ -180,8 +180,34 @@ The party agent is responsible for collating and submitting required documents t
 
 ## Amendments to this Constitution
 
-Amendments to this constitution can be made with the support of at least 66% of a quorum, or at the discretion of the party Leader.
+Except where otherwise specified, amendments to this constitution can be made with the support of at least 66% of a quorum, or at the discretion of the party Leader.
+
 They are to be submitted via pull request to the relevant Github repository.
+
+### Amendments concerning the party Leader
+Amendments to the provisions of the constitution relating to the election of the party Leader, the term length of the party Leader, or to this section, may only be made with the passage of a referendum.
+
+The Leader must hold a referendum upon the application of:
+* A quorum; or
+* One percent of the members; or
+* 100 members
+within 30 days of receiving the application, but is not obligated to if a referendum has been held within the last three months, or if the application has been withdrawn.
+
+In counting the number of members who have applied, if one member makes more than five applications during a three month period, their support shall only be counted for their first five applications.
+
+To make such an application, one person must make a git pull request to the Constitution containing the proposed amendment and all others making the application must add a comment indicating their support.
+
+If the Leader has received multiple applications for a referendum, they may at their discretion choose to hold them at the same time.
+
+In a referendum:
+* The Flux voting system shall be used if it is available
+* If the Flux voting system is unavailable, optional preferential voting shall be used
+* The voting system must be available online
+* All members who have been members for at least three months shall be eligible to vote in the referendum.
+* The question to be put to voters shall be "Do you approve of the proposed change to the Constitution?", with a link provided to the diff of the proposed change, and the only possible answers shall be "yes" or "no".
+* The Leader must send an email to all Flux members eligible to vote in the referendum informing them of the referendum and giving them the information required for them to access and use the voting system, and informing them that the voting system will be open for a period of 7 days
+* If multiple referendums are held at the same time, and more than one of those referendums passes, the pull requests shall be applied in order of the size of the majority (e.g. 90% first, 72% second, 61% third, etc.) and if a pull request cannot be applied due to a conflict with a proposal which passed with a higher majority, it shall not be applied.
+* For a referendum to pass, at least 60% of the voting members must approve it.
 
 ## Endorsed Candidates
 

@@ -12,7 +12,7 @@ Clauses should be referred to by line number and most recent commit hash.
 
 ## Objective
 
-The primary objective of Flux is to promote the election of endorsed candidates to the Senate and House of Representatives. 
+The primary objective of Flux is to promote the election of endorsed candidates to the Senate and House of Representatives.
 Promotion and endorsement of candidates will be contextually appropriate.
 
 Further objectives:
@@ -32,7 +32,7 @@ Flux's membership criteria are:
 
 ### Membership
 
-All Australian voters are eligible for membership. 
+All Australian voters are eligible for membership.
 There is no cost for membership.
 Each member is required to provide their name and address such that it matches the electoral roll.
 Other required details include methods of contact, an email address is required, a phone number is optional.
@@ -62,12 +62,12 @@ Official roles of the party are:
 * Treasurer
 * Registered Officer
 
-There is also a group known as the Leadership described below. 
+There is also a group known as the Leadership described below.
 Official roles (with the exception of Leader and Deputy Leader) are chosen by the Leadership, or by the Leader as per the section on Decision Making.
 
 #### Secretary
 
-The Secretary is responsible for the day-to-day running of the party. 
+The Secretary is responsible for the day-to-day running of the party.
 They also have the responsibility for the carrying out of the administration, and for the conduct of the correspondence, of the party.
 
 #### Initialization
@@ -90,7 +90,7 @@ They have no special roles, but form a close team to assist the Leader in managi
 
 #### The Leader
 
-Max Kaye is the initial leader. 
+Max Kaye is the initial leader.
 In the case of the death of the Leader, the Deputy Leader becomes Leader and then appoints a new Deputy Leader of their choosing.
 
 The first term length of Leader is 5 years from the date of registration.
@@ -101,6 +101,23 @@ If circumstances require the position of Leader to be filled but the Deputy Lead
 
 The Leader may resign and appoint a new Leader during the initial 5 year period.
 
+If the Leader resigns during their term, the replacement Leader adopts the remainder of the term.
+
+After the initial 5 years have expired, an election via Optional Preferential Voting will be conducted to determine the new Leader.
+Those eligible to vote and be nominated in said election are members who have been a member of the party for more than 6 months, and can provide valid electoral role details.
+
+After the initial 5 year period all remaining periods are infinite.
+
+##### Spill Motions
+
+This section takes effect on 1st July 2017.
+
+Each member, can, once per year, launch a spill motion with the support of 9 other members.
+This begins a two part process:
+
+1. A binary poll is conducted to determine if the members of the party think the Leader needs changing.
+2. If that passes, nominations are called for and an election is held for the new Leader. (As per the section on elections).
+
 #### Deputy Leader
 
 The Deputy Leader is chosen by the Leader for an ongoing appointment. The Leader may revoke the position of the Deputy Leader at their discretion.
@@ -109,7 +126,7 @@ The Deputy Leader is chosen by the Leader for an ongoing appointment. The Leader
 
 #### Decision Making
 
-Decisions are made by the party Leader. 
+Decisions are made by the party Leader.
 In their absence the Leadership may make decisions when at least 66% in agreement.
 
 For the purposes of decision making a quorum is achieved when:
@@ -124,7 +141,7 @@ The Leader may imbue any member with special authority for specific purposes, in
 
 The party is required to hold Annual General Meetings (AGMs) once per calendar year at a time of the Leadership's choosing.
 
-An AGM is to be chaired by the secretary and follow an agenda. 
+An AGM is to be chaired by the secretary and follow an agenda.
 The agenda is open for any member to add an item.
 Members will be notified by email at least 1 week before the AGM.
 The Leadership is required to be present where possible, and the meeting will be livestreamed to members.
@@ -134,13 +151,13 @@ The AGM does not have to occur in one physical place; an online AGM is okay.
 
 #### Party Meetings
 
-Party meetings may be called by the Leadership as per the section on decision making. 
-A quorum is required. 
+Party meetings may be called by the Leadership as per the section on decision making.
+A quorum is required.
 Members are not required to be notified.
 
 #### Handling of Assets
 
-Handling of assets is the responsibility of the Treasurer. 
+Handling of assets is the responsibility of the Treasurer.
 At their discretion other party members may handle assets.
 The Leader and Deputy Leader are entitled to handle assets.
 
@@ -183,3 +200,20 @@ Flux will use an internal voting system to
 
 The parameters and design choices of the system are left to the Leader, and not within the scope of this document.
 There is no requirement that the voting system for members is the same as the voting system for minor parties.
+
+### Internal Elections and Polls
+
+In the case an official internal election or poll needs to be held for some position it will follow this format:
+
+Polls do not have a nomination period, though options might be decided through some consultation process.
+The polling process is day 30 to 60 of the election process.
+
+The total running time of the election is 60 days.
+
+Nominations open on day 15, and close on day 30.
+
+Voting is open on day 45, and closes on day 55.
+
+Results are released between day 55 and 60 inclusively, after voting has closed.
+
+There is no particular requirements on which software is used, however it must meet reasonable standards of integrity.

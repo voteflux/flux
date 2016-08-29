@@ -112,7 +112,8 @@ After the initial 5 year period all remaining periods are infinite.
 
 This section takes effect on 1st July 2017.
 
-Each member, can, once per year, launch a spill motion with the support of 9 other members.
+Each member, can, once per year, launch a spill motion in conjunction with 9 other members.
+This counts as the 'once per year' condition for all 10 members.
 This begins a two part process:
 
 1. A binary poll is conducted to determine if the members of the party think the Leader needs changing.

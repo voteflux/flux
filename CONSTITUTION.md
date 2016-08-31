@@ -23,13 +23,6 @@ Further objectives:
 * To facilitate a culture of criticism through empowering specialists and passionate voters
 * To stimulate the creation of new policy options
 
-## Membership Criteria
-
-Flux's membership criteria are:
-
-* Maintain a list of at least 500 members who are on the Australian electoral roll
-* or, Have at least 1 member who is a parliamentarian
-
 ### Membership
 
 All Australian voters are eligible for membership. 

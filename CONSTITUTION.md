@@ -32,9 +32,9 @@ Further objectives:
 
 ### Membership
 
-All Australian voters are eligible for membership. 
+All Australian citizens and permanent residents are eligible for membership. 
 There is no cost for membership.
-Each member is required to provide their name and address such that it matches the electoral roll.
+Each member is required to provide their name and address. If the member is on the electoral roll, their name and address must match that of the electoral roll. If the member is not on the electoral roll, they must indicate this in their application.
 Other required details include methods of contact, an email address is required, a phone number is optional.
 Their membership application is to be submitted through Flux's website, at https://voteflux.org.
 Members may resign or revoke their membership through the resignation feature on the member's membership details page.

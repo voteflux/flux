@@ -9,14 +9,14 @@ The term "Flux AUS" is used to refer to the federal Flux Party, not the state pa
 
 The Flux Party — WA is hereby established as an organisation.
 
-The canonical version of the constitution is stored in the repository at https://github.com/voteflux/flux/ under the file name CONSTITUTION.WA.md.
+The canonical version of the constitution is stored in the repository at https://github.com/voteflux/flux/ under the file name `CONSTITUTION.WA.md`.
 
 
 Clauses should be referred to by line number and most recent commit hash.
 
-Flux ACT intends to defer many of the responsibilities for running the party to the federal Flux party, and this is indicated in this document.
+Flux WA intends to defer many of the responsibilities for running the party to the federal Flux party, and this is indicated in this document.
 
-This document is ratified when the federal Flux constitution is updated to reflect this fact and must include an appropriate commit hash of this document.
+This document is ratified when the federal Flux constitution is updated to reflect this fact.
 This will be recorded under the section titled "State and Territory Branches".
 At the time of writing this link will take an observer to said ratification: https://github.com/voteflux/flux/blob/master/CONSTITUTION.md
 
@@ -195,7 +195,7 @@ Endorsed candidates are chosen by The Leader or by 100% agreement of The Flux WA
 
 ## Internal Voting System
 
-Flux ACT will use an internal voting system to
+Flux WA will use an internal voting system to
 
 * Facilitate all WA electors participating in the democratic process once a Flux WA candidate is elected
 * Facilitate members participating in the democratic process

@@ -4,7 +4,7 @@
 
 This is the constitution for the WA political party named "The Flux Party — WA", sometimes referred to as "Flux WA" or "The Party" in this document.
 The registered abbreviation for the party at the time of registration is "Flux The System! Flux Party WA".
-It is a branch of the federal party "VOTEFLUX.ORG | Upgrade Democracy!" with the abbreviation "Flux".
+It is a state party associated with the federal party "VOTEFLUX.ORG | Upgrade Democracy!" with the abbreviation "Flux".
 The term "Flux AUS" is used to refer to the federal Flux Party, not the state party.
 
 The Flux Party — WA is hereby established as an organisation.
@@ -18,7 +18,7 @@ Flux WA intends to defer many of the responsibilities for running the party to t
 
 This document is ratified when the federal Flux constitution is updated to reflect this fact.
 This will be recorded under the section titled "State and Territory Branches".
-At the time of writing this link will take an observer to said ratification: https://github.com/voteflux/flux/blob/master/CONSTITUTION.md
+At the time of writing this link will take an observer to said ratification: https://github.com/voteflux/flux/blob/master/CONSTITUTION.md#state-and-territory-branches
 
 ## Objective
 

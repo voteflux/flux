@@ -12,7 +12,7 @@ Clauses should be referred to by line number and most recent commit hash.
 
 ## Objective
 
-The primary objective of Flux is to promote the election of endorsed candidates to the Senate and House of Representatives. 
+The primary objective of Flux is to promote the election of endorsed candidates to the Senate and House of Representatives.
 Promotion and endorsement of candidates will be contextually appropriate.
 
 Further objectives:
@@ -32,7 +32,7 @@ Flux's membership criteria are:
 
 ### Membership
 
-All Australian voters are eligible for membership. 
+All Australian voters are eligible for membership.
 There is no cost for membership.
 Each member is required to provide their name and address such that it matches the electoral roll.
 Other required details include methods of contact, an email address is required, a phone number is optional.
@@ -62,12 +62,12 @@ Official roles of the party are:
 * Treasurer
 * Registered Officer
 
-There is also a group known as the Leadership described below. 
+There is also a group known as the Leadership described below.
 Official roles (with the exception of Leader and Deputy Leader) are chosen by the Leadership, or by the Leader as per the section on Decision Making.
 
 #### Secretary
 
-The Secretary is responsible for the day-to-day running of the party. 
+The Secretary is responsible for the day-to-day running of the party.
 They also have the responsibility for the carrying out of the administration, and for the conduct of the correspondence, of the party.
 
 #### Initialization
@@ -90,7 +90,7 @@ They have no special roles, but form a close team to assist the Leader in managi
 
 #### The Leader
 
-Max Kaye is the initial leader. 
+Max Kaye is the initial leader.
 In the case of the death of the Leader, the Deputy Leader becomes Leader and then appoints a new Deputy Leader of their choosing.
 
 The first term length of Leader is 5 years from the date of registration.
@@ -109,7 +109,7 @@ The Deputy Leader is chosen by the Leader for an ongoing appointment. The Leader
 
 #### Decision Making
 
-Decisions are made by the party Leader. 
+Decisions are made by the party Leader.
 In their absence the Leadership may make decisions when at least 66% in agreement.
 
 For the purposes of decision making a quorum is achieved when:
@@ -124,7 +124,7 @@ The Leader may imbue any member with special authority for specific purposes, in
 
 The party is required to hold Annual General Meetings (AGMs) once per calendar year at a time of the Leadership's choosing.
 
-An AGM is to be chaired by the secretary and follow an agenda. 
+An AGM is to be chaired by the secretary and follow an agenda.
 The agenda is open for any member to add an item.
 Members will be notified by email at least 1 week before the AGM.
 The Leadership is required to be present where possible, and the meeting will be livestreamed to members.
@@ -134,13 +134,13 @@ The AGM does not have to occur in one physical place; an online AGM is okay.
 
 #### Party Meetings
 
-Party meetings may be called by the Leadership as per the section on decision making. 
-A quorum is required. 
+Party meetings may be called by the Leadership as per the section on decision making.
+A quorum is required.
 Members are not required to be notified.
 
 #### Handling of Assets
 
-Handling of assets is the responsibility of the Treasurer. 
+Handling of assets is the responsibility of the Treasurer.
 At their discretion other party members may handle assets.
 The Leader and Deputy Leader are entitled to handle assets.
 
@@ -166,6 +166,11 @@ State registered parties and branches may be created with the oversight of the L
 Members may opt-out of helping to form the state branch or party if they wish.
 
 State and Territory branches may use the name "Flux" and associated branding elements when they have been created as a subsection here, as is the case with `ACT Branch` below.
+
+### WA State Party
+
+The Flux WA State Party is to be established with the constitution contained in the `CONSTITUTION.WA.md` document in the root of this repository.
+This constitution can be found at: https://github.com/voteflux/flux/blob/master/CONSTITUTION.WA.md
 
 ### ACT Branch
 

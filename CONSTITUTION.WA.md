@@ -3,7 +3,7 @@
 ## Introduction
 
 This is the constitution for the WA political party named "The Flux Party — WA", sometimes referred to as "Flux WA" or "The Party" in this document.
-The registered abbreviation for the party at the time of registration is "Flux The System! Flux Party WA".
+The registered abbreviation for the party at the time of registration is "Flux The System!".
 It is a state party associated with the federal party "VOTEFLUX.ORG | Upgrade Democracy!" with the abbreviation "Flux".
 The term "Flux AUS" is used to refer to the federal Flux Party, not the state party.
 

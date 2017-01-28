@@ -45,9 +45,12 @@ def print_table_of_splits():
 
 
 def print_reps_to_majority_bias():
+    print("%% of time the majority is biased for N reps for a %f split" % split_point)
     for i in range(1, 30):
         print("%02d -> %05.2f" % (i, potential_splits(split_point, i, False) / i * 100))
 
 
 if __name__ == "__main__":
     print_table_of_splits()
+    print()
+    print_reps_to_majority_bias()

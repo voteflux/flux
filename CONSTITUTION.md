@@ -172,6 +172,11 @@ State and Territory branches may use the name "Flux" and associated branding ele
 The Flux WA State Party is to be established with the constitution contained in the `CONSTITUTION.WA.md` document in the root of this repository.
 This constitution can be found at: https://github.com/voteflux/flux/blob/master/CONSTITUTION.WA.md
 
+### QLD State Party
+
+The Flux QLD State Party is to be established with the constitution contained in the `CONSTITUTION.QLD.md` document in the root of this repository.
+This constitution can be found at: https://github.com/voteflux/flux/blob/master/CONSTITUTION.QLD.md
+
 ### ACT Branch
 
 The ACT branch of the Flux party is to be established with the constitution contained in the `CONSTITUTION.ACT.md` document in the root of this repository.

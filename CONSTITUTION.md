@@ -81,7 +81,7 @@ Initially the roles will be filled as per the below:
 * Treasurer: Jonathon Miller
 * Party Agent: Jonathon Miller
 
-When the party's application to the AEC is successful this constitution is comes into effect and is adopted by the party.
+When the party's application to the AEC is successful this constitution comes into effect and is adopted by the party.
 
 ### The Leadership
 

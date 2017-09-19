@@ -24,6 +24,7 @@ You'll need to revoke your membership yourself via your member details page.
 I've copied and pasted it for convenience:
 
 ---
+
 #### How can I revoke my membership?
 There is a button on your user details page in red at the bottom. All you need to do is click that. You were emailed a link to your user details when you joined, from the Flux Membership Robot. 
 
@@ -31,6 +32,7 @@ As per the constitution, you cannot revoke your membership via email.
 
 #### Where is my member details page?
 Your member details link is sent to you when you first sign up. If you need it to be sent again, you can do so here.
+
 ---
 
 If you need any assistance please don't hesitate to get back in touch.

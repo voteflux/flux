@@ -39,8 +39,9 @@ If you need any assistance please don't hesitate to get back in touch.
 
 Cheers,
 Max (or your name)
----
 
+
+---
 
 
 ## Footnotes:

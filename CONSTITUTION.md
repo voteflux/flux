@@ -101,6 +101,24 @@ If circumstances require the position of Leader to be filled but the Deputy Lead
 
 The Leader may resign and appoint a new Leader during the initial 5 year period.
 
+If the Leader resigns during their term, the replacement Leader adopts the remainder of the term.
+
+After the initial 5 years have expired, an election via Optional Preferential Voting will be conducted to determine the new Leader.
+Those eligible to vote and be nominated in said election are members who have been a member of the party for more than 6 months, and can provide valid electoral role details.
+
+After the initial 5 year period all remaining periods are infinite.
+
+##### Spill Motions
+
+This section takes effect on 1st July 2017.
+
+Each member, can, once per year, launch a spill motion in conjunction with 9 other members.
+This counts as the 'once per year' condition for all 10 members.
+This begins a two part process:
+
+1. A binary poll is conducted to determine if the members of the party think the Leader needs changing.
+2. If that passes, nominations are called for and an election is held for the new Leader. (As per the section on elections).
+
 #### Deputy Leader
 
 The Deputy Leader is chosen by the Leader for an ongoing appointment. The Leader may revoke the position of the Deputy Leader at their discretion.
@@ -193,3 +211,20 @@ Flux will use an internal voting system to
 
 The parameters and design choices of the system are left to the Leader, and not within the scope of this document.
 There is no requirement that the voting system for members is the same as the voting system for minor parties.
+
+### Internal Elections and Polls
+
+In the case an official internal election or poll needs to be held for some position it will follow this format:
+
+Polls do not have a nomination period, though options might be decided through some consultation process.
+The polling process is day 30 to 60 of the election process.
+
+The total running time of the election is 60 days.
+
+Nominations open on day 15, and close on day 30.
+
+Voting is open on day 45, and closes on day 55.
+
+Results are released between day 55 and 60 inclusively, after voting has closed.
+
+There is no particular requirements on which software is used, however it must meet reasonable standards of integrity.

@@ -9,7 +9,7 @@
 The national Flux party, "VOTEFLUX.ORG | Upgrade Democracy!" and subsidiary State Parties respect the rights of its members as autonomous citizens, to engage in public debate in the absence of censorship. It is not our policy to censor comments, criticisms or debate; as supported in the United Nations Declaration of Human Rights, and freedom of political speech as recognised in Nationwide News Pty Ltd v Wills (1992) 177 CLR 1, the High Court of Australia, except where prohibited under Australian Law. 
 1.1
 
-This policy does not extend to trolling behaviors, which will result in being banned, blocked, or removed after two warnings.  If the trolling behavior appears in a public forum, one warning must be made in public forum, the second warning may be public, private or both.  
+This policy does not extend to trolling behaviors, which will result in being banned, blocked, or removed after two warnings. If the trolling behavior appears in a public forum, one warning must be made in public forum, the second warning may be public, private or both.  
 1.2 
 
 Dispute resolution regarding breaches to our Non-Censorship Policy must be made with respect to the appropriate Flux Constitution.

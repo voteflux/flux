@@ -69,3 +69,4 @@ Members who fail to comply with this policy may be subject to counseling and exp
 7.0  
 
 Review date: the policy is to be reviewed before December 31, 2020.
+

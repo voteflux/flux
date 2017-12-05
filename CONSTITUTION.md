@@ -167,6 +167,11 @@ Members may opt-out of helping to form the state branch or party if they wish.
 
 State and Territory branches may use the name "Flux" and associated branding elements when they have been created as a subsection here, as is the case with `ACT Branch` below.
 
+### NSW State Party
+
+The Flux NSW State Party is to be established with the constitution contained in the `CONSTITUTION.NSW.md` document in the root of this repository.
+This constitution can be found at: https://github.com/voteflux/flux/blob/master/CONSTITUTION.NSW.md
+
 ### WA State Party
 
 The Flux WA State Party is to be established with the constitution contained in the `CONSTITUTION.WA.md` document in the root of this repository.

@@ -187,12 +187,12 @@ A quorum can authorize spending of funds.  Funds will be used only for the purpo
 
 ## Amendments to this Constitution
 
-Amendments to this constitution can be made with the support of at least 66% of a quorum, or at the discretion of the Party Leader.  
+Amendments to this constitution can be made with the support of a quorum, or at the discretion of the Party Leader.  
 Constitutional amendments are to be submitted via pull request to the relevant Github repository.
 
 ## Endorsed Candidates
 
-Endorsed candidates are chosen by The Leader or by a quorum, though any candidates chosen by a quorum are to be vetoed by the Leader.
+Endorsed candidates are chosen by The Leader or by a quorum, though any candidates chosen by a quorum can be vetoed by the Leader.
 
 ## Internal Voting System
 

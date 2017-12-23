@@ -122,7 +122,7 @@ The Leader may imbue any member with special authority for specific purposes, in
 
 #### Annual General Meeting
 
-The party is required to hold Annual General Meetings (AGMs) once per calendar year at a time of the Leadership's choosing.
+The party is required to announce the date of the Annual General Meeting (AGM) once per calendar year at a time of the Leadership's choosing, and hold the AGM within one month of the annoucement.
 
 An AGM is to be chaired by the secretary and follow an agenda.
 The agenda is open for any member to add an item.

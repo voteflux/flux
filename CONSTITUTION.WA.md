@@ -149,7 +149,7 @@ The Leader retains the right to veto decisions made by any quorum in which they 
 
 #### Annual General Meeting
 
-The party is required to hold Annual General Meetings (AGMs) once per calendar year at a time of the Leadership's choosing.
+The party is required to announce an Annual General Meetings (AGMs) once per calendar year at a time of the Leadership's choosing. The AGM must occur within one month of the annoucement.
 These AGMs may be chaired by the secretary of the federal Flux Party or the secretary of Flux WA.
 
 This rules around AGMs (except those above) are identical in an ongoing basis to the section titled "Annual General Meeting" in the federal Flux constitution.

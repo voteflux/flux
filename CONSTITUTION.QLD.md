@@ -1,3 +1,5 @@
+<img src="./Flux_Icon_Colour55.png" />
+
 # The Flux Party Queensland - Constitution
 
 ## Introduction
@@ -41,7 +43,7 @@ Flux QLD also adopts objectives of the federal Flux party where possible.
 ## Associated Entities
 
 The Flux Party Queensland is associated with THE FLUX FOUNDATION LIMITED (the Company)
-(ACN: 617 344 304).
+(ACN: 617 344 304).  Foundation directors are the "members", Nathan Spataro, Max Kaye, Daithi O Gliasain.
 
 ## Membership Criteria
 
@@ -55,7 +57,7 @@ Queensland electors are eligible for membership:
 * (i) provided they have not been convicted of a disqualifying electoral offense within the previous ten years. 
 * (ii) Flux QLD membership will terminate should any member be convicted of a disqualifying electoral offense.
 
-Queensland electors may join Flux QLD by joining the federal Flux party.  Membership applications are submitted through Flux AUS's website, at https://voteflux.org; members may opt out of inclusion of state or federal membership through the website membership portal.  Membership to Flux QLD is automatic for qualified applicants registering for Flux AUS.  Each member is required to provide their name, address, and date of birth such that it matches the electoral roll.  Other contact details required, include; email address (required for party correspondence), phone number is optional.  Membership is free, there is only one category of membership, and members are always referred to as 'members'.
+Queensland electors may join Flux QLD by joining the federal Flux party.  Membership applications are submitted through Flux AUS's website, at https://voteflux.org; members may opt out of inclusion of state or federal membership through the website membership portal.  Membership to Flux QLD is automatic for qualified applicants registering for Flux AUS.  Each member is required to provide their name, address, and date of birth such that it matches the electoral roll.  Email address is a required contact detail for party correspondence.  Phone number is optional.  Membership is free, there is only one category of membership, and members are always referred to as 'members'.
 
 Elected candidates that are members of Flux QLD are not permitted to be members of other political parties.  Should a Flux candidate find themselves a member of a secondary party, they must immediately resign, so as to retain only one party affiliation. 
 
@@ -63,7 +65,7 @@ Members may be expelled from the party when it is agreed upon unanimously by the
 
 ## Structure of Flux QLD and Office Bearers
 
-### Structure and Office Bearers
+### Office Bearers
 
 Official Roles of the Flux QLD party are:
 
@@ -77,9 +79,9 @@ Official Roles of the Flux QLD party are:
 
 These roles form a group known as ‘The Leadership’. The Leader and Deputy Leader of Flux QLD are to be identical to the persons fulfilling the respective roles for Flux AUS.  
 
-Any member of Flux QLD may put themselves forward for the role of Secretary, Registered Officer, Deputy Registered Officer, and Agent.  The Leadership group is responsible for putting forward a preferential list for the Official Roles.  The Secretary, and Deputy Registered Officer are ratified by the party Leader, or Deputy Leader in the Leaders absence. The Secretary for Flux QLD is responsible for ratifying the position of Registered Officer and registered Party Agent for Flux QLD.  (The Registered Officer ratifies the Deputy Registered Officer's Role).  Members fulfilling the positions of Secretary, Registered Officer, Deputy Registered Officer and Agent are by default, also members of the Flux QLD ‘Steering Committee’.  
+Any member of Flux may put themselves forward for the role of Secretary, Registered Officer, Deputy Registered Officer, and Agent.  The Leadership group is responsible for putting forward a preferential list for the Official Roles.  The Secretary, and Deputy Registered Officer are ratified by the party Leader, or Deputy Leader in the Leaders absence. The Secretary for Flux QLD is responsible for ratifying the position of Registered Officer and registered Party Agent for Flux QLD.  (The Registered Officer ratifies the Deputy Registered Officer's Role).  Members fulfilling the positions of Secretary, Registered Officer, Deputy Registered Officer and Party Agent are by default, also members of the Flux QLD ‘Steering Committee’.  
 
-The Steering Committee will be comprised of a minimum of three members who are also members of Flux QLD, and a maximum of seven persons.  Steering Committee positions are created and persons are promoted to the roles by quorum of The Leadership.   
+The Steering Committee will be comprised of a minimum of three members who are also members of Flux QLD, and a maximum of seven persons.  Steering Committee positions are created and persons are promoted to the roles by quorum of The Leadership.  Steering Committee members sign a letter of appointment detailing the roles, responsibilities and terms of appointment which is signed off on by the appropriate member of The Leadership.
 
 #### Initialization
 
@@ -89,11 +91,18 @@ Initially the roles will be filled as per the below:
 * Deputy Leader: Max Kaye
 * Secretary: Riley Kinnunen
 * Registered Officer: Daryl Killin
-* Deputy Registered Officer: Brendan Rizzoli
-* Party Agent: Chris Schneider
-* Steering Committee Chair: Aaron Whittaker
+* Deputy Registered Officer: open - nominations for 2018
+* Party Agent: as per constitution (line 148), Party Agent role is being fulfilled by Flux QLD Steer Co.  Nominations are open for 2018.
+* Steering Committee Chair: nominations for 2018
+* Invited Board Member: Brent Abel
 
 Members may occupy more than one position, not all roles must be filled by Flux QLD members, though three unique persons from Flux QLD must be named.  When the party's application to the Electoral Commission Queensland (ECQ) is successful this constitution comes into effect and is adopted by the party.   
+
+### Party Structure
+
+The Flux Party Queensland is composed of individual Flux members who form the following bodies "The Leadership", the Flux QLD Steering Committee and working groups.  Typical working groups include Campaign Management, Fund-raising & Finance, Public Awareness and Engagement.  The secretary performs head of operations role, the steering committee chair performs head of implementation role, the party agent acts as treasurer.  The membership, terms of reference and duration of any other roles or working groups is established by the Steering Committee by quorum.  
+
+The Flux Party Queensland is comprised of individual Flux members who form the following bodies; "The Leadership", the Flux QLD Steering Committee, and working groups.
 
 ### The Leadership
 
@@ -114,7 +123,7 @@ The Deputy Leader of Flux QLD is identical at all times to the Deputy Leader of 
 #### Secretary
 
 The Secretary is responsible for the day-to-day running of The Party.
-The Secretary is responsible for the carrying out administration, and for the conduct of correspondence for Flux QLD.  **The Secretary is responsible for making application to register the party, for motioning the commencement of The Flux Party Queensland secretarial role and making application to change the party’s registered officer, and notifying the commission of the party agent’s appointment.**
+The Secretary is responsible for the carrying out administration, and for the conduct of correspondence for Flux QLD.  The Secretary is responsible for making application to register the party, for motioning the commencement of The Flux Party Queensland secretarial role and making application to change the party’s registered officer, and notifying the commission of the party agent’s appointment.
 
 Both the Leader and Deputy Leader may act on the Secretary's behalf, and accept joint responsibility for carrying out the administration and correspondence of the party.
 
@@ -130,7 +139,7 @@ Email correspondence to The Secretary is to be sent to secretary.qld@voteflux.or
 * Registered Officers cannot resign, they must be replaced by application of the party secretary.
 * The Registered Officer signs off (and notifies the Electoral Commission Queensland) on the appointment of the Deputy Registered Officer, who's nomination is vetted in a majority vote by a quorum of Steering Committee members.  
 
-Email to the registered officers can be sent c/o The Flux Party Queensland Secretary, mailing address for the registered officers is consistent with the Electoral Commission records. 
+Email to the registered officers can be sent to leadership.qld@votflux.org, mailing address for the registered officers is consistent with the Electoral Commission records. 
 
 #### Party Agent
 
@@ -138,11 +147,13 @@ Email to the registered officers can be sent c/o The Flux Party Queensland Secre
 
 **In the event that an agent’s appointment is no longer in effect the obligations of an agent rest on each member of the party’s executive committee.**
 
-Email to the registered officers can be sent c/o The Flux Party Queensland Secretary, mailing address for the Party Agent is consistent with the Electoral Commission records. 
+Email to the party agent can be sent to leadership.qld@votflux.org, mailing address for the Party Agent is consistent with the Electoral Commission records. 
 
 #### Steering Committee
 
-The Steering Committee is comprised of The Secretary, The Registered Officer, Deputy Registered Officer, Party Agent, Steering Committee Chair, and Committee Members by appointment.  At least three of these positions must be held by members of Flux QLD.
+The Steering Committee is comprised of The Secretary, The Registered Officer, Deputy Registered Officer, Party Agent, Steering Committee Chair, and Committee Members by appointment.  At least three of these positions must be held by members of Flux QLD.  
+
+The Steering Committee, through individual adoption of party responsibilities, and together through working groups will jointly perform the functions of the party.  There is to be one state branch, and state matters are to be addressed and handled by the Steering Committee.
 
 At the time of registration, the Steering Committee consists of:
 
@@ -158,19 +169,25 @@ Chris Schneider (Party Agent), Aaron Whittaker (Steering Committee Chair), Brent
 ### Administration
 
 #### Decision Making
+##### Quorum
 
-Decisions are made by The Party Leader, or The Steering Committee when at least 66% are in agreement. 
-For the purposes of decision making a quorum is achieved in any instance where:
+Quorum for decision making is achieved when The Leader or Deputy Leader in consultation with one other member of the Flux QLD Steering Committee are present, or when 2/3 of the Flux QLD Steering Committee are present.  
 
-* The Leader or Deputy Leader in consultation with one other member of the Flux QLD Steering Committee are present,
-* All members of Flux QLD Steering Committee are present
+##### Decisions
+Resolutions are passed when The Party Leadership is in unanimous agreement (Leader, Deputy Leader, and one Flux QLD Steer Co Member), or 2/3 of Flux QLD Steer Co quorum are in agreement.
+
 
 The Leader may imbue any member with special authority for specific purposes, in which case decisions made by the delegate are treated as though they were made by the Leader.
 
+#### Complaints, Discipline & Disputes
+
+Complaints or disputes from or between members are to be taken up with the Steering Committee within one month of receipt of the complaint.  Complaints regarding Steering Committee members, breach of The Flux Party Queensland Charter, or Flux Code of Conduct are to be addressed to the party secretary. Complaints regarding the Secretary are to be addressed to the Flux QLD Steering Committee Chair.  Complaints regarding candidates are to be taken up with the Registered Officer.  All formal complaints must be raised immediately with The Leadership.  The Steering Committee Chair is responsible for individual and group bi-annual performance reviews.    
+
+The Steering Committee in consultation with The Leadership will determine the merits of any complaints about a member, or members of the Flux QLD Steering Committee or Leadership.  Should a complaint be found to have merit The Leadership or a Steering Committee consensus are to determine the measures necessary to address it.  The Flux QLD Steering Committee in agreement with The Leadership can dismiss any complaint as frivolous or vexatious.  Where conflict emerges within the Leadership or between the Leadership and Steering Committee, both will be jointly responsible for initiating best practice conflict resolution procedures.  
+
 #### Annual General Meeting
 
-The party is required to hold Annual General Meetings (AGMs) once per calendar year at a time of the Leadership's choosing.
-These AGMs may be chaired by the secretary of the federal Flux Party or the secretary of Flux QLD.
+The party is required to hold Annual General Meetings (AGMs) once per financial year at a time of the Leadership's choosing.  These AGMs may be chaired by the secretary of the federal Flux Party or the secretary of Flux QLD.
 
 This rules around AGMs (except those above) are identical in an ongoing basis to the section titled "Annual General Meeting" in the federal Flux constitution.
 
@@ -214,9 +231,9 @@ The party is aware of the model procedures for preselection ballots ((EA92, s 71
 
 ## Internal Voting System
 
-Flux QLD will use an internal voting system to
+Flux QLD will use an internal voting system to:
 
-* Facilitate all Queensland electors participating in the democratic process. Once a Flux QLD candidate is elected;
+* Facilitate all Queensland electors to participate in the democratic process. Once a Flux QLD candidate is elected;
 * Facilitate members participating in the democratic process.
 * Facilitate minor parties and independents' productive participation without winning a seat.
 

@@ -90,12 +90,13 @@ They have no special roles, but form a close team to assist the Leader in managi
 
 #### The Leader
 
-Max Kaye is the initial leader.
+Max Kaye is the initial Leader.
 In the case of the death of the Leader, the Deputy Leader becomes Leader and then appoints a new Deputy Leader of their choosing.
 
-The first term length of Leader is 5 years from the date of registration.
-For this period they are essentially a benevolent dictator.
-It is intended for this to be changed at a later date via amendment, before the 5 years have expired.
+The duration of the first term of Leader is 5 years from the date of registration.
+There is not election process for leadership currently; this is required to be implemented before the 5th anniversary of the party.
+
+The Leader retains the final say in disputes or arguments regarding party operations.
 
 If circumstances require the position of Leader to be filled but the Deputy Leader cannot take the position, the Leadership may elect a new Leader by whichever means they choose. If an impasse is reached a new Leader is randomly chosen from the Leadership.
 

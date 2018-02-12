@@ -94,7 +94,7 @@ Max Kaye is the initial Leader.
 In the case of the death of the Leader, the Deputy Leader becomes Leader and then appoints a new Deputy Leader of their choosing.
 
 The duration of the first term of Leader is 5 years from the date of registration.
-There is not election process for leadership currently; this is required to be implemented before the 5th anniversary of the party.
+There is no election process for leadership currently; this is required to be implemented before the 5th anniversary of the party.
 
 The Leader retains the final say in disputes or arguments regarding party operations.
 

@@ -73,12 +73,12 @@ Official Roles of the Flux NSW party are:
 * Deputy Leader
 * Party Secretary
 * Registered Officer
-* Deputy Registered Officer
+* Deputy Registered Officer (Optional)
 * Party Agent
 
 These roles form a group known as ‘The Leadership’. The Leader and Deputy Leader of Flux NSW are to be identical to the persons fulfilling the respective roles for Flux AUS.  
 
-Any member of Flux NSW may put themselves forward for the role of Party Secretary, Registered Officer, Deputy Registered Officer, and Agent.  The Leadership group is responsible for putting forward a preferential list for the Official Roles.  The Party Secretary, and Deputy Registered Officer are ratified by the party Leader, or Deputy Leader in the Leaders absence. The Party Secretary for Flux NSW is responsible for ratifying the position of Registered Officer and registered Party Agent for Flux NSW.  (The Registered Officer ratifies the Deputy Registered Officer's Role).
+Any member of Flux NSW may put themselves forward for the role of Party Secretary, Registered Officer, Deputy Registered Officer, and Party Agent.  The Leadership group is responsible for putting forward a preferential list for the Official Roles.  The Party Secretary, and Deputy Registered Officer are ratified by the Party Leader, or Deputy Leader in the Leaders absence. The Party Secretary for Flux NSW is responsible for ratifying the position of Registered Officer and registered Party Agent for Flux NSW.  (The Registered Officer ratifies the Deputy Registered Officer's Role).
 
 #### Initialization
 
@@ -87,8 +87,8 @@ Initially the roles will be filled as per the below:
 * Leader: Nathan Spataro
 * Deputy Leader: Max Kaye
 * Party Secretary: Thomas Sesselmann
-* Registered Officer: Nathan Spataro
-* Deputy Registered Officer: Max Kaye
+* Registered Officer: Thomas Sesselmann
+* Deputy Registered Officer: Nobody
 * Party Agent: Thomas Sesselmann
 
 Members may occupy more than one position, not all roles must be filled by Flux NSW members, though three unique persons from Flux NSW must be named.  When the party's application to the New South Wales Electoral Commission (NSWEC) is successful this constitution comes into effect and is adopted by the party.   
@@ -128,7 +128,7 @@ Email correspondence to The Secretary is to be sent to secretary.nsw@voteflux.or
 * Registered Officers cannot resign, they must be replaced by application of the party secretary.
 * The Registered Officer signs off (and notifies the New South Wales Electoral Commission) on the appointment of the Deputy Registered Officer.
 
-#### Deputy Registered Officer
+#### Deputy Registered Officer (Optional)
 
 The Registered Officer’s responsibilities may be delegated to a Deputy Registered Officer, except for signing the Party's Annual Return, which must be done by the Registered Officer.
 

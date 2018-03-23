@@ -17,11 +17,11 @@ The primary objective of Flux Victoria is to promote the election of endorsed ca
 #### Further objectives:
 
 1. To support the ends and goals of the federal party “VOTEFLUX.ORG | Upgrade Democracy!” (“Flux AUS”);
-* To provide every Victorian voter with real democratic potential;
-* To use elected parliamentarians as a gateway for members to directly influence parliament within Victorian law, using an internal voting system;
-* To provide the framework and means for minor parties and independents to participate productively without winning a seat;
-* To facilitate a culture of criticism through empowering specialists and passionate voters; and
-* To stimulate the creation of new policy options.
+2. To provide every Victorian voter with real democratic potential;
+3. To use elected parliamentarians as a gateway for members to directly influence parliament within Victorian law, using an internal voting system;
+4. To provide the framework and means for minor parties and independents to participate productively without winning a seat;
+5. To facilitate a culture of criticism through empowering specialists and passionate voters; and
+6. To stimulate the creation of new policy options.
 
 ## Effect as Law
 

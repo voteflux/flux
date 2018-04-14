@@ -14,7 +14,7 @@ Clauses should be referred to by line number and most recent commit hash.
 
 The primary objective of Flux Victoria is to promote the election of endorsed candidates to the Victorian Legislative Council and Legislative Assembly. Promotion and endorsement of candidates will be contextually appropriate.
 
-#### Further objectives:
+### Further objectives:
 
 1. To support the ends and goals of the federal party “VOTEFLUX.ORG | Upgrade Democracy!” (“Flux AUS”);
 2. To provide every Victorian voter with real democratic potential;

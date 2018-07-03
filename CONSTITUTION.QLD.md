@@ -79,22 +79,7 @@ These roles form a group known as ‘The Leadership’. The Leader and Deputy Le
 
 Any member of Flux may put themselves forward for the role of Secretary, Registered Officer, Deputy Registered Officer, and Agent.  The Leadership group is responsible for putting forward a preferential list for the Official Roles.  The Secretary, and Deputy Registered Officer are ratified by the party Leader, or Deputy Leader in the Leaders absence. The Secretary for Flux QLD is responsible for ratifying the position of Registered Officer and registered Party Agent for Flux QLD.  (The Registered Officer ratifies the Deputy Registered Officer's Role).  Members fulfilling the positions of Secretary, Registered Officer, Deputy Registered Officer and Party Agent are by default, also members of the Flux QLD ‘Steering Committee’.  
 
-The Steering Committee will be comprised of a minimum of three members who are also members of Flux QLD, and a maximum of seven persons.  Steering Committee positions are created and persons are promoted to the roles by quorum of The Leadership.  Steering Committee members sign a letter of appointment detailing the roles, responsibilities and terms of appointment which is signed off on by the appropriate member of The Leadership.
-
-#### Initialization
-
-Initially the roles will be filled as per the below:
-
-* Leader: Nathan Spataro
-* Deputy Leader: Max Kaye
-* Secretary: Riley Kinnunen
-* Registered Officer: Daryl Killin
-* Deputy Registered Officer: open - nominations for 2018
-* Party Agent: as per constitution (line 148), Party Agent role is being fulfilled by Flux QLD Steer Co.  Nominations are open for 2018.
-* Steering Committee Chair: nominations for 2018
-* Invited Board Member: Brent Abel
-
-Members may occupy more than one position, not all roles must be filled by Flux QLD members, though three unique persons from Flux QLD must be named.  When the party's application to the Electoral Commission Queensland (ECQ) is successful this constitution comes into effect and is adopted by the party.   
+The Steering Committee will be comprised of a minimum of three members who are also members of Flux QLD, and a maximum of seven persons.  Steering Committee positions are created and persons are promoted to the roles by quorum of The Leadership.  Steering Committee members sign a letter of appointment detailing the roles, responsibilities and terms of appointment which is signed off on by the appropriate member of The Leadership. 
 
 ### Party Structure
 
@@ -106,10 +91,7 @@ The Flux Party Queensland is comprised of individual Flux members who form the f
 
 #### The Leader
 
-The Leader and Deputy Leader of Flux QLD are identical to the Leader and Deputy Leader of the federal Flux party at all times.  Provided they do not change before Flux QLD registration is successful the positions will be filled by:
-
-* Leader: Nathan Spataro
-* Deputy Leader: Max Kaye
+The Leader and Deputy Leader of Flux QLD are identical to the Leader and Deputy Leader of the federal Flux party at all times. 
 
 The conditions and rules surrounding the position of Leader are identical to that of the federal Flux party, as noted in their constitution in the section titled "The Leader".  An update to this position in the federal constitution is enacted in this party also.  The initial term of the Leader is equal to the remaining time for the Leader in the federal party.
 
@@ -153,10 +135,6 @@ The Steering Committee is comprised of The Secretary, The Registered Officer, De
 
 The Steering Committee, through individual adoption of party responsibilities, and together through working groups will jointly perform the functions of the party.  There is to be one state branch, and state matters are to be addressed and handled by the Steering Committee.
 
-At the time of registration, the Steering Committee consists of:
-
-Daryl Killin, (Registered Officer), Riley Kinnunen (Secretary), Brendan Rizzoli (Deputy Registered Officer)
-Chris Schneider (Party Agent), Aaron Whittaker (Steering Committee Chair), Brent Abel (Member).
 
 ####  Steering Committee Chair 
 

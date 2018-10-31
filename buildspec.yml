@@ -1,0 +1,42 @@
+version: 0.2
+
+#env:
+  #variables:
+     # key: "value"
+     # key: "value"
+  #parameter-store:
+     # key: "value"
+     # key: "value"
+
+phases:
+  install:
+    commands:
+      - apt-get update -y
+      - apt-get install -y groff git-core ghostscript
+      - wget -q https://github.com/jgm/pandoc/releases/download/2.3.1/pandoc-2.3.1-1-amd64.deb
+      - sudo dpkg -i pandoc-2.3.1-1-amd64.deb
+  pre_build:
+    commands:
+      - ls -la
+      - ls -R
+  build:
+    commands:
+      - git clone https://github.com/voteflux/flux && cd flux && /bin/bash scripts/convertMarkdown.sh
+  post_build:
+    commands:
+      - ls -R
+      - |
+        DATE=$(cat ./theDate)
+        echo "$DATE"
+        if [ "$CODEBUILD_BUILD_SUCCEEDING" = "1" ]; then
+            cd _dist
+            aws s3 sync . s3://flux-constitutions/$DATE
+            aws s3 sync . s3://flux-constitutions/_latest
+        fi
+artifacts:
+  files:
+    - _dist/*
+cache:
+  paths:
+    - /var/cache/apt/archives
+

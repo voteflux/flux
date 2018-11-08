@@ -10,6 +10,10 @@ The canonical version of the constitution is stored in the repository at https:/
 
 Clauses should be referred to by line number and most recent commit hash.
 
+## Interpretations
+
+For the purposes of interpretation all rules, regulations, and instructions in this document are to be considered bylaws.
+
 ## Objective
 
 The primary objective of Flux is to promote the election of endorsed candidates to the Senate and House of Representatives.
@@ -88,6 +92,10 @@ When the party's application to the AEC is successful this constitution comes in
 Members of The Leadership are hand chosen by the Leader and Deputy Leader and form the support for the Leader.
 They have no special roles, but form a close team to assist the Leader in managing and leading the party.
 
+Amendments to this section (*The Leadership*) are only able to be made with the authorization of the Leader and this authority is not delegable. 
+
+Any amendments to the parent section (*Structure of Flux and Office Bearers*) must not contradict or affect this section without authorization of the Leader.
+
 #### The Leader
 
 Max Kaye is the initial Leader.
@@ -119,16 +127,16 @@ For the purposes of decision making a quorum is achieved when:
 * The Deputy Leader and one other member of the Leadership is present
 * Three members of the Leadership are present
 
-The Leader may imbue any member with special authority for specific purposes, in which case decisions made by the delegate are treated as though they were made by the Leader.
+The Leader may imbue any member with special authority for specific purposes, in which case decisions made by the delegate are treated as though they were made by the Leader, except in cases where such delegation would contradict with clauses in this document.
 
 #### Annual General Meeting
 
-The party is required to announce the date of the Annual General Meeting (AGM) once per calendar year at a time of the Leadership's choosing, and hold the AGM within one month of the annoucement.
+The party is required to announce the date of the Annual General Meeting (AGM) once per calendar year at a time of the Leadership's choosing, and hold the AGM within one month of the announcement.
 
 An AGM is to be chaired by the secretary and follow an agenda.
 The agenda is open for any member to add an item.
 Members will be notified by email at least 1 week before the AGM.
-The Leadership is required to be present where possible, and the meeting will be livestreamed to members.
+The Leadership is required to be present where possible, and the meeting will be live-streamed to members.
 Members may request to be invited to the AGM.
 Only members who are invited by the Leadership may participate.
 The AGM does not have to occur in one physical place; an online AGM is okay.
@@ -156,6 +164,8 @@ The party agent is responsible for collating and submitting required documents t
 
 Amendments to this constitution can be made with the support of at least 66% of a quorum, or at the discretion of the party Leader.
 They are to be submitted via pull request to the relevant Github repository.
+
+Amendments to this section (*Amendments to this Constitution*) require the authorization of the Leader and such authority is not delegable.
 
 ## Endorsed Candidates
 
@@ -188,7 +198,7 @@ This constitution can be found at: https://github.com/voteflux/flux/blob/master/
 The ACT branch of the Flux party is to be established with the constitution contained in the `CONSTITUTION.ACT.md` document in the root of this repository.
 This constitution can be found at: https://github.com/voteflux/flux/blob/master/CONSTITUTION.ACT.md
 
-`CONSTITUTION.ACT.md` is accepted and ratified as the opening constitution of Flux ACT as defined in commit `c37c68126e3c9d354d8bb66496d8efd6d9b35caa` which is verified (and provided) at the following URL: https://github.com/voteflux/flux/blob/c37c68126e3c9d354d8bb66496d8efd6d9b35caa/CONSTITUTION.ACT.md (note the commit hash - the long string of randomish letters and numbers - matches the commit hash in the URL, indicating the document is correct and not tampered with).
+`CONSTITUTION.ACT.md` is accepted and ratified as the opening constitution of Flux ACT as defined in commit `c37c68126e3c9d354d8bb66496d8efd6d9b35caa` which is verified (and provided) at the following URL: https://github.com/voteflux/flux/blob/c37c68126e3c9d354d8bb66496d8efd6d9b35caa/CONSTITUTION.ACT.md (note the commit hash - the long string of random looking letters and numbers - matches the commit hash in the URL, indicating the document is correct and not tampered with).
 
 ## Internal Voting System
 

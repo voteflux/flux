@@ -80,7 +80,7 @@ These roles form a group known as ‘The Leadership’. The Leader and Deputy Le
 
 Any member of Flux NSW may put themselves forward for the role of Party Secretary, Registered Officer, Deputy Registered Officer, and Party Agent.  The Leadership group is responsible for putting forward a preferential list for the Official Roles.  The Party Secretary, and Deputy Registered Officer are ratified by the Party Leader, or Deputy Leader in the Leaders absence. The Party Secretary for Flux NSW is responsible for ratifying the position of Registered Officer and registered Party Agent for Flux NSW.  (The Registered Officer ratifies the Deputy Registered Officer's Role).
 
-#### Initialization
+#### Initialisation
 
 Initially the roles will be filled as per the below:
 
@@ -103,6 +103,8 @@ The Leader and Deputy Leader of Flux NSW are identical to the Leader and Deputy 
 * Deputy Leader: Max Kaye
 
 The conditions and rules surrounding the position of Leader are identical to that of the federal Flux party, as noted in their constitution in the section titled "The Leader".  An update to this position in the federal constitution is enacted in this party also.  The initial term of the Leader is equal to the remaining time for the Leader in the federal party.
+
+Other members of the Leadership and office bearers are appointed and dismissed at the discretion of the Leader. In the event of an office bearer's resignation or request for dismissal, the Leader appoints a replacement office bearer if required.
 
 #### Deputy Leader
 

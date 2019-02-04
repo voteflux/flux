@@ -1,15 +1,15 @@
-# Flux Party (NSW) - Constitution
+# Flux NSW - Constitution
 
 ## Introduction
 
-This is the constitution for the New South Wales political party named "Flux Party (NSW)", sometimes referred to as "Flux NSW" or "The Party" in this document.
+This is the constitution for the New South Wales political party named "Flux | You decide our policies", sometimes referred to as "Flux NSW" or "The Party" in this document.
 
-Flux NSW has no registered abbreviation at the time of registration.
+The abbreviated party name is "Flux NSW".
 Flux NSW is a state party associated with the federal party "VOTEFLUX.ORG | Upgrade Democracy!" with the abbreviation "Flux".
 
 The term "Flux AUS" is used to refer to the federal Flux Party, not the state party.
 
-Flux Party (NSW) is hereby established as an organization.
+Flux NSW is hereby established as an organization.
 
 The canonical version of the constitution is stored in the repository at https://github.com/voteflux/flux/ under the file name ’CONSTITUTION.NSW.md’
 
@@ -40,7 +40,7 @@ Flux NSW also adopts objectives of the federal Flux party where possible.
 
 ## Associated Entities
 
-Flux Party (NSW) is associated with THE FLUX FOUNDATION LIMITED (the Company)
+Flux NSW is associated with THE FLUX FOUNDATION LIMITED (the Company)
 (ACN: 617 344 304).
 
 ## Membership Criteria

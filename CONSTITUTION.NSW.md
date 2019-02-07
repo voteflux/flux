@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is the constitution for the New South Wales political party named "Flux NSW"
+This is the constitution for the New South Wales political party named "Flux NSW", sometimes referred to "The Party" in this document.
 
 The abbreviated party name is "Flux".
 Flux NSW is a state party associated with the federal party "VOTEFLUX.ORG | Upgrade Democracy!" with the abbreviation "Flux".

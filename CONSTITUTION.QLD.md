@@ -77,9 +77,15 @@ Official Roles of the Flux QLD party are:
 
 These roles form a group known as ‘The Leadership’. The Leader and Deputy Leader of Flux QLD are to be identical to the persons fulfilling the respective roles for Flux AUS.  
 
-Any member of Flux may put themselves forward for the role of Secretary, Registered Officer, Deputy Registered Officer, and Agent.  The Leadership group is responsible for putting forward a preferential list for the Official Roles.  The Secretary, and Deputy Registered Officer are ratified by the party Leader, or Deputy Leader in the Leaders absence. The Secretary for Flux QLD is responsible for ratifying the position of Registered Officer and registered Party Agent for Flux QLD.  (The Registered Officer ratifies the Deputy Registered Officer's Role).  Members fulfilling the positions of Secretary, Registered Officer, Deputy Registered Officer and Party Agent are by default, also members of the Flux QLD ‘Steering Committee’.  
+Any member of Flux may put themselves forward for the role of Secretary, Registered Officer, Deputy Registered Officer, and Agent.  The Leadership group is responsible for putting forward a preferential list for the Official Roles. The Secretary, and Deputy Registered Officer are ratified by the party Leader, or Deputy Leader in the Leaders absence. The Secretary for Flux QLD is responsible for ratifying the position of Registered Officer and registered Party Agent for Flux QLD. (The Registered Officer ratifies the Deputy Registered Officer's Role). Members fulfilling the positions of Secretary, Registered Officer, Deputy Registered Officer and Party Agent are by default, also members of the Flux QLD ‘Steering Committee’.
 
 The Steering Committee will be comprised of a minimum of three members who are also members of Flux QLD, and a maximum of seven persons.  Steering Committee positions are created and persons are promoted to the roles by quorum of The Leadership.  Steering Committee members sign a letter of appointment detailing the roles, responsibilities and terms of appointment which is signed off on by the appropriate member of The Leadership.
+
+#### Current Office Bearers
+
+Current office bearers are documented in https://github.com/voteflux/flux/blob/master/staff/qld.md
+
+Edits and updates to the current office bearers document is to be authorized by the Leader or a chosen delegate.
 
 #### Initialization
 

@@ -31,7 +31,7 @@ phases:
         if [ "$CODEBUILD_BUILD_SUCCEEDING" = "1" ]; then
             cd _dist
             aws s3 sync . s3://flux-constitutions/$DATE
-            aws s3 sync . s3://flux-constitutions/_latest
+            aws s3 sync . s3://flux-constitutions/_latest --delete
         fi
 artifacts:
   files:

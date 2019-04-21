@@ -8,5 +8,5 @@ Please don't be surprised if a PR you submit is not accepted. A good path to hav
 
 Also, in regards to discussion, please make liberal use of quoting since comments can be edited after the fact and to avoid ambiguety. Please do not be surprised if you are asked to make use of quotes in your discussion posts. Good quoting is incredibly important, and paraphrasing other people or misquoting them (deliberately or accidentally) is taken quite seriously.
 
-You can find PDF, docx, odt, rst, txt, pdf, and html copies of the constitutions and policies in this repository at https://voteflux.org/constitutions.html
+You can find PDF, docx, odt, rst, txt, pdf, and html copies of the constitutions and policies in this repository at https://voteflux.org/constitutions/
 

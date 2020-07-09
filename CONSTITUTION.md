@@ -131,15 +131,35 @@ The Leader may imbue any member with special authority for specific purposes, in
 
 #### Annual General Meeting
 
-The party is required to announce the date of the Annual General Meeting (AGM) once per calendar year at a time of the Leadership's choosing, and hold the AGM within one month of the announcement.
-
+The party is required to hold exactly one Annual General Meeting (AGM) for each calendar year.
 An AGM is to be chaired by the secretary and follow an agenda.
-The agenda is open for any member to add an item.
-Members will be notified by email at least 1 week before the AGM.
-The Leadership is required to be present where possible, and the meeting will be live-streamed to members.
-Members may request to be invited to the AGM.
-Only members who are invited by the Leadership may participate.
-The AGM does not have to occur in one physical place; an online AGM is okay.
+The initial date of an AGM for a particular calendar year must be announced during that calendar year.
+The Leadership are responsible for choosing the date and time of an AGM.
+An AGM must be held within one month of its announcement.
+Under extreme or extraordinary circumstances it is acceptable for an AGM to be postponed.
+
+The following requirements must be satisfied simultaneously:
+
+* An AGM is to commence: no earlier than the advertised time, and no later than 3 hours after the advertised time.
+* Members must be notified by email of the date and time of the AGM, unless they have opted out of email communications.
+  * This notification is *the notification to members*.
+* The AGM's date and time must be set such that the AGM is run at least 168 hours after *the notification to members*.
+* Any member may add an item to an AGM's agenda, provided it is relevant to the operations or conduct of the party.
+  * Members may do so after *the notification to members* is delivered and before the advertised date and time of said AGM.
+* An AGM's agenda must published and publicly accessible before that AGM commences.
+* Illegal, obscene, or otherwise dangerous agenda items, are to be handled at the discretion of the chair.
+  * Such items are excluded from publication related requirements.
+* The AGM must be live-streamed publicly.
+* The Leadership is required to attend where possible.
+* Members may request to be invited to the AGM.
+* Direct participation in the AGM is only open to the Leadership and members directly invited by the Leadership.
+* The AGM does not have to physically occur in one place; an online AGM is okay.
+
+Clarifying remarks:
+
+* Minor operational details such as the URL of the livestream of the AGM must be provided prior to the AGM, but are not required to be included with the announcement of the AGM.
+* The normal Flux newsletter mailing list is acceptable as a means of notification. By default all members are added to this list upon registration, though they may opt out at (or after) registration. Members and non-members are able to add themselves via the Flux website.
+* The `initial date` of the AGM is the first date announced. In the case an AGM is postponed, subsequent dates, announcements, etc. must comply with this constitution.
 
 #### Party Meetings
 

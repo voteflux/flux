@@ -121,13 +121,13 @@ The Deputy Leader is chosen by the Leader for an ongoing appointment. The Leader
 Decisions are made by the party Leader.
 In their absence the Leadership may make decisions when at least 66% in agreement.
 
-For the purposes of decision making a quorum is achieved when:
+For the purposes of decision making a quorum is achieved when any of the following conditions is satisifed, provided no prior condition is also satisfied:
 
-* The Leader is present
-* The Deputy Leader and one other member of the Leadership is present
-* Three members of the Leadership are present
+1. The Leader is present
+2. The Deputy Leader and one other member of the Leadership is present
+3. Three members of the Leadership are present
 
-The Leader may imbue any member with special authority for specific purposes, in which case decisions made by the delegate are treated as though they were made by the Leader, except in cases where such delegation would contradict with clauses in this document.
+The Leader may imbue any member with special authority for specific purposes, in which case decisions made by the delegate are treated as though they were made by the Leader, except in cases where such delegation would contradict any clause in this document.
 
 #### Annual General Meeting
 

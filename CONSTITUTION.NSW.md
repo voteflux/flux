@@ -1,22 +1,21 @@
-# Flux Party (NSW) - Constitution
+# Flux Party (NSW) / On Strike - Constitution
 
 ## Introduction
 
-This is the constitution for the New South Wales political party named "Flux Party (NSW)", sometimes referred to as "Flux NSW" or "The Party" in this document.
+This is the constitution for the New South Wales political party formerly named "Flux Party (NSW)" and currently named "On Strike Against This Farce" (abbreviation: "On Strike"), herein referred to as "The Party".
 
-Flux NSW has no registered abbreviation at the time of registration.
-Flux NSW is a state party associated with the federal party "VOTEFLUX.ORG | Upgrade Democracy!" with the abbreviation "Flux".
+<!-- The Party has no registered abbreviation at the time of registration. -->
+The Party is a state party associated with the wrongfully deregistered federal party "VOTEFLUX.ORG | Upgrade Democracy!" with the abbreviation "Flux".
+The term "Flux AUS" is used to refer to the federal Flux Party.
 
-The term "Flux AUS" is used to refer to the federal Flux Party, not the state party.
-
-Flux Party (NSW) is hereby established as an organization.
+The Party is hereby established as an organization.
 
 The canonical version of the constitution is stored in the repository at https://github.com/voteflux/flux/ under the file name ’CONSTITUTION.NSW.md’
 
 
 Clauses should be referred to by line number and most recent commit hash.
 
-Flux NSW intends to defer some of the responsibilities for running the party to the federal Flux party, and this is indicated in this document.
+The Party intends to defer some of the responsibilities for running the party to the federal Flux party, and this is indicated in this document.
 
 **This document is ratified when the federal Flux constitution is updated to reflect this fact.**
 This will be recorded under the section titled "State and Territory Branches".
@@ -24,7 +23,7 @@ At the time of writing this link will take an observer to said ratification: htt
 
 ## Objective
 
-The primary objective of Flux NSW is to promote the election of endorsed candidates to the Legislative Assembly and Legislative Council of New South Wales. 
+The primary objective of The Party is to promote the election of endorsed candidates to the Legislative Assembly and Legislative Council of New South Wales. 
 
 Promotion and endorsement of candidates will be contextually appropriate.
 
@@ -36,7 +35,7 @@ Further objectives:
 * To facilitate a culture of engagement through empowering specialists and passionate voters;
 * To stimulate the creation of new policy options.
 
-Flux NSW also adopts objectives of the federal Flux party where possible.
+<!-- The Party also adopts objectives of the federal Flux party where possible. -->
 
 ## Associated Entities
 
@@ -45,29 +44,29 @@ Flux Party (NSW) is associated with THE FLUX FOUNDATION LIMITED (the Company)
 
 ## Membership Criteria
 
-Flux NSW’s membership criterion is:
+The Party’s membership criterion is:
 
-* Flux NSW must maintain a list of at least 750 members who are electors and who are not also relied upon by another party for registration purposes
-* Flux NSW must provide Declarations of Membership Forms to the New South Wales Electoral Commission for each of the 750 members who are relied upon for registration of the party.
+* The Party must maintain a list of at least 750 members who are electors and who are not also relied upon by another party for registration purposes
+* The Party must provide Declarations of Membership Forms to the New South Wales Electoral Commission for each of the 750 members who are relied upon for registration of the party.
 
 ### Membership
 
 All New South Wales electors are eligible for membership.
-They may join Flux NSW by joining the federal Flux party. Membership applications are submitted through Flux AUS's website, at https://voteflux.org; members may opt out of inclusion of state or federal membership through the website membership portal.  Membership to Flux NSW is automatic for qualified applicants registering for Flux AUS.  Each member is required to provide their name, address, and date of birth such that it matches the electoral roll.  Other contact details which are optional, include; email address (required for party correspondence), and phone number.  Membership is free, there is only one category of membership, and members are always referred to as 'members'.
+They may join The Party by joining the federal Flux party. Membership applications are submitted through Flux AUS's website, at https://voteflux.org; members may opt out of inclusion of state or federal membership through the website membership portal.  Membership to The Party is automatic for qualified applicants registering for Flux AUS.  Each member is required to provide their name, address, and date of birth such that it matches the electoral roll.  Other contact details which are optional, include; email address (required for party correspondence), and phone number.  Membership is free, there is only one category of membership, and members are always referred to as 'members'.
 
 Members retain membership by retaining membership to the federal Flux party. There are no obligations outside of maintaining membership.
 
 Members may resign or revoke their membership through the resignation feature on the member's membership details page.
 
-Elected candidates that are members of Flux NSW are not permitted to be members of other political parties.  Should a Flux candidate find themselves a member of a secondary party, they must immediately resign, so as to retain only one party affiliation. 
+Elected candidates that are members of The Party are not permitted to be members of other political parties.  Should a candidate find themselves a member of a secondary party, they must immediately resign, so as to retain only one party affiliation. 
 
-Members may be expelled or suspended from the party when it is agreed upon unanimously by the Leadership.
+Members may be expelled or suspended from The Party when it is agreed upon unanimously by the Leadership.
 
-## Structure of Flux NSW and Office Bearers
+## Structure of The Party and Office Bearers
 
 ### Structure and Office Bearers
 
-Official Roles of the Flux NSW party are:
+Official Roles of The Party are:
 
 * Leader
 * Deputy Leader
@@ -76,10 +75,12 @@ Official Roles of the Flux NSW party are:
 * Deputy Registered Officer (Optional)
 * Party Agent
 
-These roles form a group known as ‘The Leadership’. The Leader and Deputy Leader of Flux NSW are to be identical to the persons fulfilling the respective roles for Flux AUS.  
+These roles form a group known as ‘The Leadership’. The Leader and Deputy Leader of The Party are to be identical to the persons fulfilling the respective roles for Flux AUS.  
 
-Any member of Flux NSW may put themselves forward for the role of Party Secretary, Registered Officer, Deputy Registered Officer, and Party Agent.  The Leadership group is responsible for putting forward a preferential list for the Official Roles.  The Party Secretary, and Deputy Registered Officer are ratified by the Party Leader, or Deputy Leader in the Leaders absence. The Party Secretary for Flux NSW is responsible for ratifying the position of Registered Officer and registered Party Agent for Flux NSW.  (The Registered Officer ratifies the Deputy Registered Officer's Role).
+Any member of The Party may put themselves forward for the role of Party Secretary, Registered Officer, Deputy Registered Officer, and Party Agent.  The Leadership group is responsible for putting forward a preferential list for the Official Roles.  The Party Secretary, and Deputy Registered Officer are ratified by the Party Leader, or Deputy Leader in the Leaders absence. The Party Secretary is responsible for ratifying the position of Registered Officer and registered Party Agent for The Party.  (The Registered Officer ratifies the Deputy Registered Officer's Role).
 
+<!--
+(Commented: no need for initialization stuff anymore.) 
 #### Initialisation
 
 Initially the roles will be filled as per the below:
@@ -90,17 +91,20 @@ Initially the roles will be filled as per the below:
 * Registered Officer: Thomas Sesselmann
 * Deputy Registered Officer: Nobody
 * Party Agent: Thomas Sesselmann
+-->
 
-Members may occupy more than one position, not all roles must be filled by Flux NSW members, though three unique persons from Flux NSW must be named.  When the party's application to the New South Wales Electoral Commission (NSWEC) is successful this constitution comes into effect and is adopted by the party.   
+Members may occupy more than one position, not all roles must be filled by The Party members, though three unique persons from The Party must be named.
+<!-- When the party's application to the New South Wales Electoral Commission (NSWEC) is successful this constitution comes into effect and is adopted by the party.  -->
 
 ### The Leadership
 
 #### The Leader
 
-The Leader and Deputy Leader of Flux NSW are identical to the Leader and Deputy Leader of the federal Flux party at all times.  Provided they do not change before Flux NSW registration is successful the positions will be filled by:
+The Leader and Deputy Leader of The Party are identical to the Leader and Deputy Leader of the federal Flux party at all times.
+<!-- Provided they do not change before The Party's registration is successful the positions will be filled by:
 
 * Leader: Nathan Spataro
-* Deputy Leader: Max Kaye
+* Deputy Leader: Max Kaye -->
 
 The conditions and rules surrounding the position of Leader are identical to that of the federal Flux party, as noted in their constitution in the section titled "The Leader".  An update to this position in the federal constitution is enacted in this party also.  The initial term of the Leader is equal to the remaining time for the Leader in the federal party.
 
@@ -109,7 +113,7 @@ Other members of the Leadership and office bearers are appointed and dismissed a
 #### Deputy Leader
 
 This section is identical to the current federal Flux constitution titled "Deputy Leader".
-The Deputy Leader of Flux NSW is identical at all times to the Deputy Leader of the federal Flux party.
+The Deputy Leader of The Party is identical at all times to the Deputy Leader of the federal Flux party.
 
 #### Secretary
 
@@ -179,11 +183,11 @@ Party meetings are not *required* to be held, ever.
 
 #### Handling of Assets
 
-Handling of assets is the responsibility of the Leadership and they must always act within the interests of the party.  At their discretion other party members may handle assets.  The Leader and Deputy Leader are entitled to handle assets.  When handling financial instruments of the Flux NSW party, the Leadership must disclose the transaction to the Flux NSW Party Agent. 
+Handling of assets is the responsibility of the Leadership and they must always act within the interests of the party.  At their discretion other party members may handle assets.  The Leader and Deputy Leader are entitled to handle assets.  When handling financial instruments of The Party, the Leadership must disclose the transaction to the the Party Agent. 
 
 #### Keeping of the party's accounts
 
-The Leadership are responsible for managing the party's finances, and the Flux AUS party Leader and Deputy Leader are jointly accountable to the Flux NSW Party Agent for assisting with financial disclosure.
+The Leadership are responsible for managing the party's finances, and the Flux AUS party Leader and Deputy Leader are jointly accountable to the the Party Agent for assisting with financial disclosure.
 
 A quorum can authorize spending of funds.  Funds will be used only for the purposes of furthering the objectives of the party.  There is no restriction on what funds may be spent on, except that which is prohibited under Australian Law.
 
@@ -198,9 +202,9 @@ Endorsed candidates are chosen by The Leader or by a quorum, though any candidat
 
 ## Internal Voting System
 
-Flux NSW will use an internal voting system to
+The Party will use an internal voting system to
 
-* Facilitate all New South Wales electors participating in the democratic process. Once a Flux NSW candidate is elected;
+* Facilitate all New South Wales electors participating in the democratic process. Once a candidate is elected;
 * Facilitate members participating in the democratic process.
 * Facilitate minor parties and independents' productive participation without winning a seat.
 
